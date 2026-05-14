@@ -81,7 +81,7 @@ public class MazenThabet
 ## Contribution Activity
 
 ![Contribution Trophies](https://github-profile-trophy.vercel.app/?username=MazenThabet&theme=dracula&row=1&column=6&margin-w=15&no-bg=true)
-
+![snake gif](https://github.com/mazenmst22/mazenmst22/blob/output/github-snake-dark.svg)
 
 ---
 
